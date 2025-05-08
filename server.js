@@ -34,3 +34,14 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`servidor rodando na porta ${PORT}`);
 });
+
+//código finalizado, agora é só esperar os bugs aparecerem
+  //Fe – o dev mestre dos bugs
+  
+  /*
+       ,--./,-.        </ >ˆ$
+      / #      /
+     |       |
+      \        \
+       `._,._,'
+  */
